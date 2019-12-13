@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61NCb7jJ40L._AC_SL1000_.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/615x%2B17zdCL._AC_SL1000_.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "https://i.pinimg.com/originals/2a/a6/73/2aa673aba76d2ef729ff1d7c797085c5.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/612aSZEfh9L._AC_SL1000_.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61ejmgWMVCL._AC_SL1000_.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61tRNK0mbsL._AC_SL1000_.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61IaSZ3hNlL._AC_SL1000_.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/617xSnIovmL._AC_SL1000_.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/613oZH0EO1L._AC_SL1000_.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "https://i.pinimg.com/736x/f2/0f/71/f20f71263cf6270b4ccd8d371c0d6f6a--animal-paintings-art-is.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71%2B8J4gXNeL._AC_SL1100_.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61cGx2lif5L._AC_SL1000_.jpg",
+    "count": 0
+  }
+]
