@@ -1,7 +1,7 @@
 # Clicky-game
 
 Clicky Game is a simple memory game.It is a web app that utilizes React for the front end.
-View the live APP:
+App link:https://sharmap1.github.io/Clicky-game/
 
 ## Overview
 
