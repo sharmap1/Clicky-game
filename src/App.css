@@ -1,7 +1,6 @@
 .App {
   text-align: center;
   background-color: linen;
-  color: black;
 }
 
 .App-header {
@@ -35,9 +34,11 @@
   color: #2a77ae;
   margin-bottom: 10px;
 }
-/* .git {
-  padding: 5px;
-  font-size: large;
-  background-color: chartreuse;
-  color: black;
-} */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

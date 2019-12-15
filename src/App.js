@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 import PictureCard from "./components/PictureCard";
 import Wrapper from "./components/Wrapper";
+// import Scores from "./components/Scores";
 import cards from "./cards.json";
 
 class App extends Component {
@@ -54,20 +55,13 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1 className="App-title">Welcome to React CLICKY Game!!</h1>{" "}
-          {/* <a href="http://github.com/sharmap1-Clicky-game" className="git">
-            github
-            <i
-              img
-              src="https://cdn3.iconfinder.com/data/icons/sociocons/256/github-sociocon.png"
-              alt="github"
-            />
-          </a> */}
+          {/* <img src={logo} className="App-logo" alt="logo" /> */}
+          <h1 className="App-title">Welcome to React CLICKY Game!!</h1>
         </header>
-
         <h3 className="App-intro">
           <strong>
-            CLICK on an image to earn points, but don't click it twice!
+            CLICK on an image to earn points, but don't click on any, more than
+            ONCE!
           </strong>
           <p className="score">
             <strong>
@@ -92,9 +86,8 @@ class App extends Component {
         />
         <footer className="footer">
           <div className="container">
-            <span className="text-muted">
-              &copy; Prasamsha Sharma - Clicky Game 2019
-            </span>
+            <span className="text-muted">&copy;Sharma - Clicky Game 2019</span>
+            <href> </href>
           </div>
         </footer>
       </div>
